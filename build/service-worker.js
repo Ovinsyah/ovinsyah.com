@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ovinsyah.com/precache-manifest.d184452ce566ab7f806660ef436019f5.js"
+  "/ovinsyah.com/precache-manifest.11458ce1735d64e69dee76ec81ca550a.js"
 );
 
 self.addEventListener('message', (event) => {
