@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Ovinsyah/ovinsyah.com/static/css/main.681eb6e3.chunk.css",
-    "main.js": "/Ovinsyah/ovinsyah.com/static/js/main.2f2f8837.chunk.js",
-    "main.js.map": "/Ovinsyah/ovinsyah.com/static/js/main.2f2f8837.chunk.js.map",
-    "runtime-main.js": "/Ovinsyah/ovinsyah.com/static/js/runtime-main.4f57b60c.js",
-    "runtime-main.js.map": "/Ovinsyah/ovinsyah.com/static/js/runtime-main.4f57b60c.js.map",
-    "static/js/2.197b293a.chunk.js": "/Ovinsyah/ovinsyah.com/static/js/2.197b293a.chunk.js",
-    "static/js/2.197b293a.chunk.js.map": "/Ovinsyah/ovinsyah.com/static/js/2.197b293a.chunk.js.map",
-    "index.html": "/Ovinsyah/ovinsyah.com/index.html",
-    "precache-manifest.adfeafd0357b0e619dc81e3a8d7c4151.js": "/Ovinsyah/ovinsyah.com/precache-manifest.adfeafd0357b0e619dc81e3a8d7c4151.js",
-    "service-worker.js": "/Ovinsyah/ovinsyah.com/service-worker.js",
-    "static/css/main.681eb6e3.chunk.css.map": "/Ovinsyah/ovinsyah.com/static/css/main.681eb6e3.chunk.css.map",
-    "static/js/2.197b293a.chunk.js.LICENSE.txt": "/Ovinsyah/ovinsyah.com/static/js/2.197b293a.chunk.js.LICENSE.txt"
+    "main.css": "/ovinsyah.com/static/css/main.681eb6e3.chunk.css",
+    "main.js": "/ovinsyah.com/static/js/main.43390678.chunk.js",
+    "main.js.map": "/ovinsyah.com/static/js/main.43390678.chunk.js.map",
+    "runtime-main.js": "/ovinsyah.com/static/js/runtime-main.75a6eeef.js",
+    "runtime-main.js.map": "/ovinsyah.com/static/js/runtime-main.75a6eeef.js.map",
+    "static/js/2.4acc7699.chunk.js": "/ovinsyah.com/static/js/2.4acc7699.chunk.js",
+    "static/js/2.4acc7699.chunk.js.map": "/ovinsyah.com/static/js/2.4acc7699.chunk.js.map",
+    "index.html": "/ovinsyah.com/index.html",
+    "precache-manifest.d184452ce566ab7f806660ef436019f5.js": "/ovinsyah.com/precache-manifest.d184452ce566ab7f806660ef436019f5.js",
+    "service-worker.js": "/ovinsyah.com/service-worker.js",
+    "static/css/main.681eb6e3.chunk.css.map": "/ovinsyah.com/static/css/main.681eb6e3.chunk.css.map",
+    "static/js/2.4acc7699.chunk.js.LICENSE.txt": "/ovinsyah.com/static/js/2.4acc7699.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4f57b60c.js",
-    "static/js/2.197b293a.chunk.js",
+    "static/js/runtime-main.75a6eeef.js",
+    "static/js/2.4acc7699.chunk.js",
     "static/css/main.681eb6e3.chunk.css",
-    "static/js/main.2f2f8837.chunk.js"
+    "static/js/main.43390678.chunk.js"
   ]
 }
