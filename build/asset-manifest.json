@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ovinsyah.com/static/css/main.681eb6e3.chunk.css",
-    "main.js": "/ovinsyah.com/static/js/main.43390678.chunk.js",
-    "main.js.map": "/ovinsyah.com/static/js/main.43390678.chunk.js.map",
+    "main.js": "/ovinsyah.com/static/js/main.81f13ddd.chunk.js",
+    "main.js.map": "/ovinsyah.com/static/js/main.81f13ddd.chunk.js.map",
     "runtime-main.js": "/ovinsyah.com/static/js/runtime-main.75a6eeef.js",
     "runtime-main.js.map": "/ovinsyah.com/static/js/runtime-main.75a6eeef.js.map",
     "static/js/2.4acc7699.chunk.js": "/ovinsyah.com/static/js/2.4acc7699.chunk.js",
     "static/js/2.4acc7699.chunk.js.map": "/ovinsyah.com/static/js/2.4acc7699.chunk.js.map",
     "index.html": "/ovinsyah.com/index.html",
-    "precache-manifest.d184452ce566ab7f806660ef436019f5.js": "/ovinsyah.com/precache-manifest.d184452ce566ab7f806660ef436019f5.js",
+    "precache-manifest.d3c2ea2bb9f9edf08f4e3f37e3a7b0fc.js": "/ovinsyah.com/precache-manifest.d3c2ea2bb9f9edf08f4e3f37e3a7b0fc.js",
     "service-worker.js": "/ovinsyah.com/service-worker.js",
     "static/css/main.681eb6e3.chunk.css.map": "/ovinsyah.com/static/css/main.681eb6e3.chunk.css.map",
     "static/js/2.4acc7699.chunk.js.LICENSE.txt": "/ovinsyah.com/static/js/2.4acc7699.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.75a6eeef.js",
     "static/js/2.4acc7699.chunk.js",
     "static/css/main.681eb6e3.chunk.css",
-    "static/js/main.43390678.chunk.js"
+    "static/js/main.81f13ddd.chunk.js"
   ]
 }
