@@ -4,7 +4,7 @@ import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import Home from './views/Home'
 const Index = () => {
   return (
-    <BrowserRouter basename="https://ovinsyah.com/">
+    <BrowserRouter>
       <Switch>
         <Route exact path="/" component={ Home } />
       </Switch>

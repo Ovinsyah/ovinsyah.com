@@ -7,7 +7,7 @@ export default () => {
   return (
     <Layout>
       <Header />
-      <Services />
+      {/* <Services /> */}
     </Layout>
   )
 }

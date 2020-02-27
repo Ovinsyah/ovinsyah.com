@@ -1,11 +1,17 @@
 import Styled from 'styled-components';
 
 export const SectionHeader = Styled.div`
-  min-height: calc(100vh - 113px);
+  min-height: calc(100vh - 64px);
   display: flex;
   align-items: center;
+  @media (max-width: 768px) {
+    font-size: 10px;
+    .image-state{
+      display: none;
+    }
+  }
   h2{
-    font-size: 30px;
+    font-size: 2em;
     margin: 0px;
     background: black;
     color: white;
@@ -15,17 +21,16 @@ export const SectionHeader = Styled.div`
     border-radius: 1px;
   }
   h1{
-    font-size: 70px;
+    font-size: 4em;
     margin: 0px;
     letter-spacing: 2px;
   }
   h3{
     margin: 0;
     font-weight: 300;
-    font-size: 26px;
+    font-size: 1.6em;
   }
   .caption{
-    min-width: 560px;
     display: flex;
     align-items: center;
   }

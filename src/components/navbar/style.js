@@ -9,4 +9,5 @@ export const Navbar = Styled.nav`
   position: sticky;
   top: 0;
   background: white;
+  z-index: 999;
 `; 
