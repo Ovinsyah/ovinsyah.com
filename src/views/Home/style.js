@@ -38,8 +38,7 @@ export const SectionHeader = Styled.div`
     padding: 20px;
     text-align: right;
     img{
-      max-width: 400px;
-      width: 100%;
+      width: 80%;
     }
   }
 `;
@@ -60,4 +59,22 @@ export const Grid = Styled.div`
   flex-grow: 1;
   max-width: 100%;
   padding: 16px;
+`;
+export const Touch = Styled.a`
+  border: 1px solid black;
+  height: 46PX;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  color: black;
+  padding: 0 3rem;
+  border-radius: 3rem;
+  margin-top: 1rem;
+  transition: all .3s;
+  &:hover{
+    background: black;
+    color: white;
+    transition: all .3s;
+  }
 `;
