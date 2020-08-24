@@ -1,4 +1,4 @@
-import Styled from 'styled-components';
+import Styled, {css} from 'styled-components';
 
 export const SectionHeader = Styled.div`
   min-height: calc(100vh - 64px);
@@ -61,20 +61,39 @@ export const Grid = Styled.div`
   padding: 16px;
 `;
 export const Touch = Styled.a`
-  border: 1px solid black;
   height: 46PX;
   display: inline-flex;
   align-items: center;
   justify-content: center;
   font-size: 20px;
-  color: black;
   padding: 0 3rem;
   border-radius: 3rem;
-  margin-top: 1rem;
-  transition: all .3s;
-  &:hover{
-    background: black;
+  ${props => props.black ? css`
+    border: 1px solid black;
     color: white;
+    background: black;
     transition: all .3s;
+    &:hover{
+      background: white;
+      color: black;
+      transition: all .3s;
+    }
+  ` : css`
+  border: 1px solid black;
+    color: black;
+    transition: all .3s;
+    &:hover{
+      background: black;
+      color: white;
+      transition: all .3s;
+    }
+  `}
+`;
+export const SectionButton = Styled.div`
+  margin-top: 24px;
+  a{
+    &:not(:last-child){
+      margin-right: 16px;
+    }
   }
 `;
