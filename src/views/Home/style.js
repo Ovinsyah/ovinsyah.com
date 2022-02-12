@@ -62,7 +62,7 @@ export const Grid = Styled.div`
 `;
 export const Touch = Styled.a`
   height: 46PX;
-  display: inline-flex;
+  display: flex;
   align-items: center;
   justify-content: center;
   font-size: 20px;
@@ -91,9 +91,7 @@ export const Touch = Styled.a`
 `;
 export const SectionButton = Styled.div`
   margin-top: 24px;
-  a{
-    &:not(:last-child){
-      margin-right: 16px;
-    }
-  }
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
 `;

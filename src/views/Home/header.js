@@ -13,6 +13,7 @@ export default () => {
             <SectionButton>
               <Touch href="mailto:hi.ovinsyah@gmail.com">Touch Me</Touch>
               <Touch black={true} href="http://ini-design.ovinsyah.com/" target="_blank">Ini Design (React)</Touch>
+              <Touch black={true} href="http://senduh.id/" target="_blank">Senduh (Web Invitation)</Touch>
             </SectionButton>
           </div>
         </Grid>
