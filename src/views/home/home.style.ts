@@ -1,4 +1,4 @@
-import Styled, {css} from 'styled-components';
+import Styled, { css } from 'styled-components';
 
 export const SectionHeader = Styled.div`
   min-height: calc(100vh - 64px);
@@ -60,7 +60,7 @@ export const Grid = Styled.div`
   max-width: 100%;
   padding: 16px;
 `;
-export const Touch = Styled.a`
+export const Touch = Styled.a<{ black: boolean }>`
   height: 46PX;
   display: flex;
   align-items: center;
