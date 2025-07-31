@@ -1,0 +1,52 @@
+{
+  "portfolio": [
+    {
+      "title": "Otten Coffee",
+      "url": "https://ottencoffee.co.id/",
+      "image": "/images/otten-coffe.png",
+      "description": "Indonesia's largest coffee e-commerce platform and tech-enabled specialty coffee company. Supplies coffee beans, brewing equipment, espresso machines, and barista tools with 180+ team members across four cities. Mission-focused on supporting Indonesian coffee industry diversity through quality technology and local expertise."
+    },
+    {
+      "title": "Lemonilo",
+      "url": "https://lemonilo.com/",
+      "image": "/images/lemonilo.png",
+      "description": "Indonesian healthy food startup and consumer goods company focused on natural, nutritious products. Founded in 2016, offers 40+ healthy product SKUs including instant noodles made from cassava flour and spinach puree, snacks, essential oils, and cooking ingredients without artificial preservatives, MSG, or colorings."
+    },
+    {
+      "title": "Indera Agri",
+      "url": "http://inderaagri.id/",
+      "image": "/images/indera-agri.png",
+      "description": "Agricultural technology company focused on sustainable farming solutions and supply chain optimization in Indonesia. Provides digital platforms and services to connect farmers with buyers while improving agricultural productivity and sustainability practices."
+    },
+    {
+      "title": "BonApp",
+      "url": "https://bonapp.id/",
+      "image": "/images/bonapp.png",
+      "description": "Indonesian food delivery and restaurant management platform that connects consumers with local restaurants. Offers comprehensive solutions for food ordering, delivery logistics, and restaurant operations management across Indonesian cities."
+    },
+    {
+      "title": "Flock Asia",
+      "url": "https://flockasia.com/",
+      "image": "/images/flock.png",
+      "description": "Regional fintech platform providing digital financial services across Southeast Asia. Specializes in payment solutions, digital banking services, and financial inclusion initiatives for underserved markets in the region."
+    },
+    {
+      "title": "Solusi Ringkas",
+      "url": "https://solusiringkas.com/",
+      "image": "/images/solusi-ringkas.png",
+      "description": "Indonesian business solutions provider offering streamlined digital tools and services for small and medium enterprises (SMEs). Focuses on simplifying business operations through technology-driven solutions and process automation."
+    },
+    {
+      "title": "Senduh",
+      "url": "https://senduh.id/",
+      "image": "/images/senduh.png",
+      "description": "Indonesian digital invitation platform that creates free online invitations for weddings, engagements, and other special events. Features QR code integration for guest attendance tracking and provides user-friendly tools for creating personalized digital invitations without cost."
+    },
+    {
+      "title": "Gaji Cermat",
+      "url": "https://gajicermat.com/",
+      "image": "/images/gajicermat.png",
+      "description": "Indonesian human resources and payroll management platform designed for small and medium businesses. Provides automated payroll processing, employee management, and HR analytics tools to streamline workforce management operations."
+    }
+  ]
+}
