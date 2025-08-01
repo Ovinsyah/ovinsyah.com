@@ -1,52 +1,130 @@
 {
   "portfolio": [
     {
-      "title": "Otten Coffee",
+      "title": "Otten Coffee | Web",
       "url": "https://ottencoffee.co.id/",
       "image": "/images/otten-coffe.png",
-      "description": "Indonesia's largest coffee e-commerce platform and tech-enabled specialty coffee company. Supplies coffee beans, brewing equipment, espresso machines, and barista tools with 180+ team members across four cities. Mission-focused on supporting Indonesian coffee industry diversity through quality technology and local expertise."
+      "description": "Indonesia's leading specialty coffee e-commerce platform serving premium coffee experiences nationwide. Built with modern web technologies to deliver seamless shopping experiences for coffee enthusiasts, featuring comprehensive product catalogs, advanced filtering systems, and integrated payment solutions. Supports over 180 team members across four major Indonesian cities."
     },
     {
-      "title": "Lemonilo",
+      "title": "Lemonilo | Web",
       "url": "https://lemonilo.com/",
       "image": "/images/lemonilo.png",
-      "description": "Indonesian healthy food startup and consumer goods company focused on natural, nutritious products. Founded in 2016, offers 40+ healthy product SKUs including instant noodles made from cassava flour and spinach puree, snacks, essential oils, and cooking ingredients without artificial preservatives, MSG, or colorings."
+      "description": "Revolutionary healthy food e-commerce platform transforming Indonesia's natural food industry. Developed a comprehensive web application featuring 40+ organic product SKUs including innovative instant noodles made from cassava flour and spinach puree. Built with focus on user experience, product discovery, and educational content about healthy living without artificial preservatives."
     },
     {
-      "title": "Indera Agri",
+      "title": "Indera Agri | Web",
       "url": "http://inderaagri.id/",
       "image": "/images/indera-agri.png",
-      "description": "Agricultural technology company focused on sustainable farming solutions and supply chain optimization in Indonesia. Provides digital platforms and services to connect farmers with buyers while improving agricultural productivity and sustainability practices."
+      "description": "Comprehensive agricultural technology platform revolutionizing Indonesia's farming ecosystem. Developed digital solutions connecting farmers directly with buyers while implementing sustainable farming practices. Features include supply chain optimization, crop management tools, and marketplace integration for enhanced agricultural productivity."
     },
     {
-      "title": "BonApp",
+      "title": "BonApp | Web",
       "url": "https://bonapp.id/",
       "image": "/images/bonapp.png",
-      "description": "Indonesian food delivery and restaurant management platform that connects consumers with local restaurants. Offers comprehensive solutions for food ordering, delivery logistics, and restaurant operations management across Indonesian cities."
+      "description": "Full-stack food delivery platform serving Indonesian metropolitan areas with advanced restaurant management capabilities. Built comprehensive web application featuring real-time order tracking, integrated payment systems, restaurant dashboard management, and logistics optimization for efficient food delivery operations."
     },
     {
-      "title": "Flock Asia",
+      "title": "Flock Asia | Web",
       "url": "https://flockasia.com/",
       "image": "/images/flock.png",
-      "description": "Regional fintech platform providing digital financial services across Southeast Asia. Specializes in payment solutions, digital banking services, and financial inclusion initiatives for underserved markets in the region."
+      "description": "Cutting-edge fintech platform delivering innovative digital financial services across Southeast Asia. Developed scalable web applications focusing on payment processing, digital banking interfaces, and financial inclusion tools. Features advanced security implementations and seamless user experiences for underserved financial markets."
     },
     {
-      "title": "Solusi Ringkas",
+      "title": "Solusi Ringkas | Web",
       "url": "https://solusiringkas.com/",
       "image": "/images/solusi-ringkas.png",
-      "description": "Indonesian business solutions provider offering streamlined digital tools and services for small and medium enterprises (SMEs). Focuses on simplifying business operations through technology-driven solutions and process automation."
+      "description": "Enterprise-grade business automation platform designed for Indonesian SMEs. Created streamlined digital tools featuring process automation, workflow management, and business intelligence dashboards. Developed with modern web frameworks to simplify complex business operations through intuitive user interfaces."
     },
     {
-      "title": "Senduh",
+      "title": "Senduh | Web",
       "url": "https://senduh.id/",
       "image": "/images/senduh.png",
-      "description": "Indonesian digital invitation platform that creates free online invitations for weddings, engagements, and other special events. Features QR code integration for guest attendance tracking and provides user-friendly tools for creating personalized digital invitations without cost."
+      "description": "Innovative digital invitation platform transforming event management in Indonesia. Built feature-rich web application offering free customizable online invitations with QR code integration, guest management systems, and real-time attendance tracking. Designed with responsive layouts and intuitive creation tools for seamless event coordination."
     },
     {
-      "title": "Gaji Cermat",
+      "title": "GajiCermat | Web",
       "url": "https://gajicermat.com/",
       "image": "/images/gajicermat.png",
-      "description": "Indonesian human resources and payroll management platform designed for small and medium businesses. Provides automated payroll processing, employee management, and HR analytics tools to streamline workforce management operations."
+      "description": "Advanced HR and payroll management platform tailored for Indonesian businesses. Developed comprehensive web application featuring automated payroll processing, employee management systems, attendance tracking, and HR analytics dashboards. Built with secure data handling and compliance features for streamlined workforce management."
+    },
+    {
+      "title": "Bento Kopi | Mobile App",
+      "url": "https://play.google.com/store/apps/details?id=id.bonapp.bentokopi&hl=id",
+      "image": "/images/bento.png",
+      "description": "Modern coffee ordering mobile application designed for Bento Kopi chain stores. Developed native mobile app featuring menu browsing, customization options, loyalty programs, and integrated payment systems. Built with real-time order tracking and push notifications for enhanced customer experience."
+    },
+    {
+      "title": "BonApp Merchant | Mobile App",
+      "url": "https://play.google.com/store/apps/details?id=id.bonapp.client&hl=id",
+      "image": "/images/bonapp-app.png",
+      "description": "Comprehensive point-of-sale mobile application for restaurant merchants. Developed B2B solution featuring order management, inventory tracking, sales analytics, and payment processing. Built with offline capabilities and cloud synchronization for reliable restaurant operations management."
+    },
+    {
+      "title": "Boslelang | Mobile App",
+      "url": "",
+      "image": "/images/boslelang.png",
+      "description": "Dynamic auction-based e-commerce mobile application connecting buyers and sellers through competitive bidding. Developed with real-time bidding systems, secure payment integration, and comprehensive product catalog management. Features include bid notifications, auction timers, and user verification systems."
+    },
+    {
+      "title": "DGW Group | Mobile App",
+      "url": "",
+      "image": "/images/dgw.png",
+      "description": "Agricultural supply chain mobile application serving Indonesian farmers with quality farming components. Developed comprehensive platform featuring product catalogs, order management, delivery tracking, and agricultural education resources. Built to support farmers in achieving superior and abundant harvest results through quality agricultural inputs."
+    },
+    {
+      "title": "Flock Social Trading | Mobile App",
+      "url": "",
+      "image": "/images/flock-app.png",
+      "description": "Advanced social trading mobile application enabling copy trading functionality for financial markets. Built sophisticated platform featuring real-time market data, trader performance analytics, social networking capabilities, and automated copy trading systems. Designed with risk management tools and portfolio tracking features."
+    },
+    {
+      "title": "Kerja Cermat | Mobile App",
+      "url": "https://play.google.com/store/apps/details?id=com.uangcermat.kerjacermatess&hl=id",
+      "image": "/images/kerjacermat.png",
+      "description": "Employee-focused payroll management mobile application streamlining workforce financial operations. Developed user-friendly app featuring salary tracking, attendance management, leave requests, and financial reports. Built with secure authentication and real-time synchronization for reliable employee self-service functionality."
+    },
+    {
+      "title": "Lemonilo | Mobile App",
+      "url": "",
+      "image": "/images/lemonilo-app.png",
+      "description": "Health-focused e-commerce mobile application for organic and natural food products. Developed comprehensive shopping experience featuring product discovery, nutritional information, personalized recommendations, and seamless checkout processes. Built with educational content and community features promoting healthy lifestyle choices."
+    },
+    {
+      "title": "Otomoto | Web",
+      "url": "",
+      "image": "/images/otomoto.png",
+      "description": "Advanced motorcycle inspection system web application for comprehensive vehicle assessment. Developed digital platform featuring automated inspection workflows, detailed reporting systems, and compliance tracking. Built with photo documentation, damage assessment tools, and integration capabilities for efficient vehicle inspection processes."
+    },
+    {
+      "title": "Pertamina Balongan | Web",
+      "url": "",
+      "image": "/images/pertamina.png",
+      "description": "Machine learning-powered CCTV monitoring system for industrial facility security and safety. Developed intelligent surveillance platform featuring real-time object detection, anomaly recognition, and automated alert systems. Built with advanced AI algorithms for comprehensive facility monitoring and incident prevention."
+    },
+    {
+      "title": "PrintArt | Web",
+      "url": "",
+      "image": "/images/printart.png",
+      "description": "Comprehensive ERP system specifically designed for printing industry operations. Developed enterprise-grade platform featuring order management, production planning, inventory control, and customer relationship management. Built with industry-specific workflows, cost calculation tools, and delivery tracking for complete printing business automation."
+    },
+    {
+      "title": "Salzi | Mobile App",
+      "url": "https://play.google.com/store/apps/details?id=id.bonapp.salzifriends&hl=id",
+      "image": "/images/salzi.png",
+      "description": "Customer ordering system mobile application designed for small and medium enterprises in Depok City. Developed user-friendly platform featuring product catalogs, order management, payment integration, and delivery tracking. Built to support local businesses with digital transformation and customer engagement tools."
+    },
+    {
+      "title": "Teras Malioboro | Mobile App",
+      "url": "https://play.google.com/store/apps/details?id=id.bonapp.terasmalioboro&hl=id",
+      "image": "/images/tm.png",
+      "description": "Regional customer ordering system mobile application serving Teras Malioboro area in Yogyakarta. Developed location-specific platform featuring local merchant integration, cultural product showcases, and tourism-friendly interfaces. Built with geo-location services and multilingual support for enhanced tourist and local customer experiences."
+    },
+    {
+      "title": "XO Indonesia | Web",
+      "url": "",
+      "image": "/images/xoindonesia.png",
+      "description": "Fashion accessories marketplace web application connecting buyers with premium accessory retailers. Developed comprehensive e-commerce platform featuring product catalogs, vendor management, secure payment systems, and order fulfillment. Built with responsive design and advanced search functionality for optimal shopping experiences."
     }
   ]
 }
