@@ -67,7 +67,7 @@
       "description": "Dynamic auction-based e-commerce mobile application connecting buyers and sellers through competitive bidding. Developed with real-time bidding systems, secure payment integration, and comprehensive product catalog management. Features include bid notifications, auction timers, and user verification systems."
     },
     {
-      "title": "DGW Group | Mobile App",
+      "title": "DGW Group | UI/UX",
       "url": "",
       "image": "/images/dgw.png",
       "description": "Agricultural supply chain mobile application serving Indonesian farmers with quality farming components. Developed comprehensive platform featuring product catalogs, order management, delivery tracking, and agricultural education resources. Built to support farmers in achieving superior and abundant harvest results through quality agricultural inputs."
@@ -125,6 +125,24 @@
       "url": "",
       "image": "/images/xoindonesia.png",
       "description": "Fashion accessories marketplace web application connecting buyers with premium accessory retailers. Developed comprehensive e-commerce platform featuring product catalogs, vendor management, secure payment systems, and order fulfillment. Built with responsive design and advanced search functionality for optimal shopping experiences."
+    },
+    {
+      "title": "Otten POS - Sales | Web",
+      "url": "https://ottencoffee.co.id/",
+      "image": "/images/otten-pos-sales.png",
+      "description": "Point-of-sale and sales management web application built for Otten Coffee's retail operations. Developed comprehensive POS system featuring real-time sales tracking, inventory management, transaction processing, and sales reporting dashboards. Designed to streamline in-store operations across multiple Otten Coffee retail locations nationwide."
+    },
+    {
+      "title": "Sepadan Teknnologi | Web",
+      "url": "https://sepadanteknologi.id/",
+      "image": "/images/sepadan-teknologi.png",
+      "description": "Corporate website for Sepadan Teknologi, an Indonesian technology solutions company. Built modern web presence featuring company profile, service showcases, project portfolios, and client engagement tools. Developed with responsive design and optimized performance to effectively communicate the company's technology expertise and service offerings."
+    },
+    {
+      "title": "BonApp Go | Mobile App",
+      "url": "https://play.google.com/store/apps/details?id=id.bonapp.go",
+      "image": "/images/bonapp-go.png",
+      "description": "On-demand food delivery mobile application for end customers powered by the BonApp platform. Developed consumer-facing app featuring restaurant discovery, menu browsing, real-time order tracking, and integrated payment processing. Built with location-based services and push notifications for seamless food ordering and delivery experiences."
     }
   ]
 }
