@@ -7,10 +7,9 @@ export default () => {
         <Grid className="caption">
           <div>
             <h2>OVINSYAH AL BAYHAQY</h2>
-            <h1>SOFTWARE ENGINEER</h1>
+            <h1>PRODUCT ENGINEER</h1>
             <h3>
-              Designed an elegant and user-friendly interface for your application, enhancing both
-              aesthetics and usability
+              Building end-to-end digital products from concept to deployment, combining engineering expertise with product thinking to deliver impactful solutions
             </h3>
             <SectionButton>
               <Touch black={false} href="mailto:hi.ovinsyah@gmail.com">
