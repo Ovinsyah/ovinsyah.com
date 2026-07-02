@@ -12,7 +12,7 @@ export default () => {
               Building end-to-end digital products from concept to deployment, combining engineering expertise with product thinking to deliver impactful solutions
             </h3>
             <SectionButton>
-              <Touch black={false} href="mailto:hi.ovinsyah@gmail.com">
+              <Touch black={false} href="mailto:hi@ovinsyah.dev">
                 Touch Me
               </Touch>
               <Touch black={true} href="http://ini-design.ovinsyah.com/" target="_blank">
